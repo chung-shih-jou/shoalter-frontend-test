@@ -1,0 +1,742 @@
+{
+  "feed": {
+    "author": {
+      "name": { "label": "iTunes Store" },
+      "uri": { "label": "http://www.apple.com/itunes/" }
+    },
+    "entry": [
+      {
+        "im:name": { "label": "Pokémon TCG Pocket" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/68/b2/be68b2f1-38e2-2dd7-69e7-c61833a5816b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/68/b2/be68b2f1-38e2-2dd7-69e7-c61833a5816b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/68/b2/be68b2f1-38e2-2dd7-69e7-c61833a5816b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "廣受世界89國玩家歡迎的《寶可夢卡牌》，將更貼近你的生活！\n \n在智慧型手機上隨時隨地享受寶可夢卡牌的樂趣！\n \n■每天都來開封卡牌包，獲得卡牌吧！\n擴充包每天皆可免費開封2包，從繪有懷念插畫的卡牌，到本作的獨家全新卡牌，更加有趣、更為豐富的收藏體驗盡在這裡！\n  \n■全新的寶可夢卡牌體驗！​\n不僅是更富有立體感的卡面插畫，在本作首度登場的寶可夢卡牌「實境卡」還能為玩家帶來猶如走入插畫世界般的體驗！\n  \n■展示自己的收藏！\n玩家們能將獲得的卡牌展示在收藏冊和收藏板上，並公開給全世界。秀出你最愛的收藏吧！\n  \n■搭載自動模式，享受對戰好容易！\n即使只有零碎時間，也能輕輕鬆鬆展開對戰！\n\n使用條款：https://www.apppokemon.com/tcgp/kiyaku/kiyaku001/rule/"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": {
+          "label": "© 2024 Pokémon. © 1995-2024 Nintendo / Creatures Inc. / GAME FREAK inc. © 2024 DeNA Co., Ltd."
+        },
+        "title": { "label": "Pokémon TCG Pocket - The Pokemon Company" },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/pok%C3%A9mon-tcg-pocket/id6479970832?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/4c/d5/bd4cd536-63e4-a2d5-5f3a-a6aec0f64b14/072f28c9-9211-491a-b962-392382731704_240521_lettuce_App_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf_12.9_U30a4_U30f3_U30c1__U7e41_U4f53_U5b57_U7248_01.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/pok%C3%A9mon-tcg-pocket/id6479970832?uo=2",
+          "attributes": {
+            "im:id": "6479970832",
+            "im:bundleId": "jp.pokemon.pokemontcgp"
+          }
+        },
+        "im:artist": {
+          "label": "The Pokemon Company",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/the-pokemon-company/id446737235?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2024-10-30T00:00:00-07:00",
+          "attributes": { "label": "2024年10月30日" }
+        }
+      },
+      {
+        "im:name": { "label": "卡皮巴拉 Go!" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/3c/6d/353c6dd6-dd4b-92b0-f47d-9f9fef22d14d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/3c/6d/353c6dd6-dd4b-92b0-f47d-9f9fef22d14d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/3c/6d/353c6dd6-dd4b-92b0-f47d-9f9fef22d14d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "你想成為一隻卡皮巴拉嗎？準備好和各種各樣的朋友一起冒險了嗎？\n隆重介紹我們的卡皮巴拉主題RPG遊戲！\n立即體驗 \"CAPYBARA GO\"，進入卡皮巴拉的世界吧！\n\n- 你的旅程將以卡皮巴拉為中心！與它建立聯繫，一起探索荒野！\n- 是的，這是一款文字冒險類Roguelike遊戲！征服前方的挑戰！\n- 你還可以與其他動物交朋友！結盟，共同面對危險！\n- 準備好一場驚險的冒險了嗎？和你的卡皮巴拉夥伴一起發現隱藏的秘密！\n\n勝利或失敗，取決於你的選擇與運氣！\n卡皮巴拉 GO - 一款由卡皮巴拉主導的文字冒險類Roguelike RPG！\n\n※本遊戲內容依遊戲軟體分級管理辦法分類為「普遍級」。\n※本遊戲為免費遊戲。遊戲內另提供購買虛擬遊戲幣、物品等付費服務，請依個人興趣及能力進行適度消費。\n※請注意遊戲時間，避免沉迷或不當模仿，長時間進行遊戲，容易影響作息，宜適度休息及運動。\n※本遊戲由艾樂思網路股份有限公司代理，若有相關疑問，請與本遊戲客服管道聯繫。"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© 2024 Habby" },
+        "title": { "label": "卡皮巴拉 Go! - HABBY" },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89-go/id6596787726?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/5a/5e/7d5a5ed3-a410-23b2-7bf4-a6670cb2a266/520f3755-6e52-4aa5-8622-dfa3c77b6358_1.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89-go/id6596787726?uo=2",
+          "attributes": {
+            "im:id": "6596787726",
+            "im:bundleId": "com.habby.capybara"
+          }
+        },
+        "im:artist": {
+          "label": "HABBY",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/habby/id1422308796?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2024-10-22T00:00:00-07:00",
+          "attributes": { "label": "2024年10月22日" }
+        }
+      },
+      {
+        "im:name": { "label": "TikTok - 有趣的人都在這裡" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ea/ed/79eaed31-e55f-b18d-471b-682cb72e6e13/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ea/ed/79eaed31-e55f-b18d-471b-682cb72e6e13/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ea/ed/79eaed31-e55f-b18d-471b-682cb72e6e13/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "TikTok是一款玩轉音樂創意的短影音App，更是年輕人的交友社群。在這裡每個人都可以拍出屬於自己的創意影片，跟著音樂的節奏，你可以盡情拍攝多種影片內容，個人才藝、生活紀錄、表演、舞蹈、劇情演繹等。點子有多狂，TikTok 舞台就有多大。趕快上傳影片，讓世界看見你的獨特創意吧！\n\n【人人上熱門】入選熱門推薦，數萬次曝光機會，下一個網路紅人就是你！\n【海量曲庫】歐美、華語、日韓歌曲等萬首歌曲，TikTok 打開音樂世界大門，海量音樂帶你嗨到炸！\n【分段拍攝】創意影片神器，分段拍攝打破空間局限，15秒輕鬆上手，自由展現！\n【極致畫質】超清晰畫質讓你告別影片被壓縮的煩惱，所有細節完美展現！\n【明星進駐】明星、網紅都在玩！他們的獨家生活千萬別錯過！\n\n透過頻道會員功能支持喜愛的創作者\n加入提供月費制會員資格的頻道並支持他們的作品 (僅在特定國家/地區提供此功能)\n\n注意事項：如果是透過 Apple 訂閱，系統會在您確認購買時從您的 App Store 帳戶扣款，並在訂閱期滿時自動續訂。如果不想續訂，最晚請在當期截止的 24 小時前停用自動續訂功能。系統會在當期截止前的 24 小時內，依選定的方案費率向您的帳戶收取續訂費用。交易完成後，您可以前往「帳戶設定」管理訂閱內容與自動續訂設定。\n\n服務條款\nhttps://www.tiktok.com/legal/terms-of-service\n\n隱私權政策\nhttps://www.tiktok.com/legal/privacy-policy"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "Copyright © 2017 Bytedance Inc." },
+        "title": { "label": "TikTok - 有趣的人都在這裡 - TikTok Ltd." },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/tiktok-%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E9%80%99%E8%A3%A1/id1235601864?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/6c/33/f86c338e-367b-33b9-f14e-9e538d4e18d3/eb827116-674c-4352-bd7c-1dbc2a4a5f86_1.-cake-white.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/tiktok-%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E9%80%99%E8%A3%A1/id1235601864?uo=2",
+          "attributes": {
+            "im:id": "1235601864",
+            "im:bundleId": "com.ss.iphone.ugc.Ame"
+          }
+        },
+        "im:artist": {
+          "label": "TikTok Ltd.",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/tiktok-ltd/id1322881000?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6016",
+            "term": "Entertainment",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2",
+            "label": "娛樂"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-11-26T04:43:41-07:00",
+          "attributes": { "label": "2017年11月26日" }
+        }
+      },
+      {
+        "im:name": { "label": "星城Online" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/89/3b/a3893b2c-faad-8c12-d67b-78ef13e7b97f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/89/3b/a3893b2c-faad-8c12-d67b-78ef13e7b97f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/89/3b/a3893b2c-faad-8c12-d67b-78ef13e7b97f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "海內外多人同時在線娛樂平台，擁有多款老虎機、公正、骰寶、賓果珍珠、捕魚機、彩色賓果等經典遊戲品種，採用高畫質表現，公平公正公開值得信賴！\n\n國際區：【豬寶商】首款直式拉霸體驗\n\n\r\n\r\n時機區：【飛彈來了】【飛到月球】掌握時機命運操之在我！\n\n\r\n\r\n獨家創新：【拳下星城】椅子、卡卡星、鬼殺昇出戰三國名將，多人共鬥快打接招！\n\n\r\n\r\n魚機區：【鯊很大4】領地王搶領地收稅金！\n\n\r\n\r\n賽事區：【積分館】用拉霸PK來對決、【公會】爭奪總獎金！\n\n\r\n\r\n每週五準時開打：【星幣爭霸戰】線上同樂大亂鬥！\n\n\r\n\r\n經典機台：【彩色賓果】【賓果行星】多人同場連線較勁！\n\n\r\n\r\n柏青斯洛：【龍娘 雙龍的爭鬥】SNK原廠授權超華麗登場！\n\n\r\n\r\n聯名合作：【無上至尊 OVERLORD】征服異界吧！【新世紀福音戰士】作戰啟動！【魯邦三世】傳奇登場！\n\n\r\n\r\n聊天頻道：【自訂貼圖/語音聊天】聊天交友來互動，遊戲熱鬧不孤單！\n\n\r\n\r\n多樣樂趣：【開運金大作戰】【官方彩蛋】【撲克競猜】【天天摸彩】不定時出現，點擊立刻賺遊戲幣！\n\n特別說明\n1. Apple.inc非本活動贊助商\n\n●本軟件依中華民國遊戲軟件分級管理辦法分類為：限制18歲等級。\n●遊戲以成年人為訴求對象。\n●遊戲不提供「現金交易賭博」，也沒有機會賺取現金或實體獎品，僅提供用戶娛樂目的。\n●在社交類游戲中的練習成績或成就，並不代表日後在「現金交易賭博」中會獲得成功。\n\n※提醒您，長時間連續進行遊戲可能會影響身體健康。\n※內建遊戲商城，須另外支付遊戲積分方可使用，遊戲積分一經購買進入遊戲幣後無法以任何理由退換現金。\n※本遊戲情節涉及棋牌益智及娛樂，非金錢交易賭博，用戶請勿進行非法遊戲幣交易。\n※此為機會中獎商品，消費者購買或參與活動不代表即可獲得特定商品。"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© 2013 WANIN INTERNATIONAL CO., LTD." },
+        "title": { "label": "星城Online - Wanin International Co. Ltd." },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/%E6%98%9F%E5%9F%8Eonline/id919043762?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/70/aa/c370aa4b-a9b1-0784-d109-0b54122a3471/bfe11b61-487f-4c7d-a5f7-bd75274c2fa2_iOS_2732x2048.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/%E6%98%9F%E5%9F%8Eonline/id919043762?uo=2",
+          "attributes": {
+            "im:id": "919043762",
+            "im:bundleId": "game.xin.hd.free"
+          }
+        },
+        "im:artist": {
+          "label": "Wanin International Co. Ltd.",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/wanin-international-co-ltd/id409060861?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2015-03-09T19:37:42-07:00",
+          "attributes": { "label": "2015年03月09日" }
+        }
+      },
+      {
+        "im:name": { "label": "YouTube" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/d5/5ca7d5ec-2c19-a4dc-dc24-3ade76eb44f3/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/d5/5ca7d5ec-2c19-a4dc-dc24-3ade76eb44f3/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/d5/5ca7d5ec-2c19-a4dc-dc24-3ade76eb44f3/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "在 iPhone 和 iPad 上下載 YouTube 官方版應用程式，掌握全球影音脈動。舉凡發燒音樂影片、熱門遊戲、時尚、美妝、新聞、成長學習等各種內容，包羅萬象，應有盡有。您可以訂閱喜愛的頻道、自行製作內容、與好友分享同樂，而且在任何裝置上都能觀看。\n\n觀看並訂閱\n● 在「首頁」分頁瀏覽個人化推薦內容\n● 在「訂閱內容」分頁查看您喜愛的頻道推出的最新影片\n● 在「媒體庫」分頁查看您看過的影片、喜歡的影片，以及您儲存的「稍後觀看」清單\n\n探索不同主題、熱門話題和新興流行話題 (僅在特定國家/地區提供此功能)\n● 隨時掌握音樂、遊戲、美妝、新聞、成長學習等方面的熱門資訊\n● 在「探索」分頁查看 YouTube 上和全球流行的發燒內容\n● 認識最酷的創作者、遊戲玩家與樂壇新秀 (僅在特定國家/地區提供此功能)\n\n與 YouTube 社群交流互動\n● 透過貼文、短片故事、首播和直播活動，掌握您喜愛的創作者最新動態\n● 利用留言加入對話，並與創作者及其他社群成員互動\n\n使用行動裝置製作內容\n● 在應用程式中直接製作或上傳您自己的影片\n● 在應用程式中透過直播活動即時與觀眾互動\n\n尋找適合您與家人的體驗 (僅在特定國家/地區提供此功能)\n● 每個家庭會以不同的方式觀看線上影片。除了 YouTube Kids 應用程式之外，您還可以前往 youtube.com/myfamily 使用全新的 YouTube 家長監督功能\n\n透過頻道會員功能支持喜愛的創作者 (僅在特定國家/地區提供此功能)\n● 加入提供月費制會員資格的頻道並支持他們的作品\n● 取得頻道提供的專屬獎勵並成為頻道社群的一員\n● 在您的使用者名稱旁顯示會員徽章，讓您的訊息在留言區和聊天室中脫穎而出\n\n升級至 YouTube Premium (僅在特定國家/地區提供此功能)\n● 觀看無廣告干擾的影片。您可以一邊觀賞影片一邊使用其他應用程式，也可以在螢幕鎖定時繼續播放影片\n● 儲存影片並於之後觀看，例如搭機或通勤時\n● YouTube Premium 會員權益包含 YouTube Music Premium\n\n注意事項：如果是透過 Apple 訂閱，系統會在您確認購買時從您的 App Store 帳戶扣款，並在訂閱期滿時自動續訂。如果不想續訂，最晚請在當期截止的 24 小時前停用自動續訂功能。系統會在當期截止前的 24 小時內，依選定的方案費率向您的帳戶收取續訂費用。交易完成後，您可以前往「帳戶設定」管理訂閱內容與自動續訂設定。\n\nYouTube《付費服務條款》：https://www.youtube.com/t/terms_paidservice\n隱私權政策：https://www.google.com/policies/privacy"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© 2021 Google Inc." },
+        "title": { "label": "YouTube - Google" },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/youtube/id544007664?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/65/6f/0d656f27-a48a-3f14-a2f9-a0fbccc17a6f/mzl.soxnenam.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/youtube/id544007664?uo=2",
+          "attributes": {
+            "im:id": "544007664",
+            "im:bundleId": "com.google.ios.youtube"
+          }
+        },
+        "im:artist": {
+          "label": "Google",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/google/id281956209?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6008",
+            "term": "Photo & Video",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E7%85%A7%E7%89%87%E5%92%8C%E5%BD%B1%E7%89%87/id6008?uo=2",
+            "label": "照片和影片"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2012-09-11T00:23:19-07:00",
+          "attributes": { "label": "2012年09月11日" }
+        }
+      },
+      {
+        "im:name": { "label": "iQIYI - 四方館 熱播中" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/0c/1c/fd0c1c9d-7354-62e7-be1b-866fda919ff6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/0c/1c/fd0c1c9d-7354-62e7-be1b-866fda919ff6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/0c/1c/fd0c1c9d-7354-62e7-be1b-866fda919ff6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "獨家熱門電視劇、綜藝、動漫、電影、及更多原創內容，盡在iQIYI！\n\n【話題陸劇】：《流水迢迢》《流光引》《捨不得星星》《四方館》《四海重明》《九部的檢察官》《唐朝詭事錄之西行》《顏心記》《狐妖小紅娘月紅篇》《凡人歌》《孤舟》《知否知否應是綠肥紅瘦》《河伯祭》《我的阿勒泰》《追風者》《烈焰》《唐人街探案2》《仙劍四》《寧安如夢》《虎鶴妖師錄》《田耕紀》《他從火光中走來》《雲之羽》《驕陽伴我》《蓮花樓》《七時吉祥》《長風渡》《愛情而已》《蒼蘭訣》《卿卿日常》《狂飆》...等。\n \n【強檔台劇】《今夜一起為愛鼓掌》《不夠善良的我們》《不良執念清除師》《某某》《無罪推定》《我的婆婆怎麼那麼可愛2》《第9節課》...等。\n \n【獨家韓劇】《偶然成為家人》《背著善宰跑》《有院子的家》...等。\n\n【獨家泰劇】：《愛情詭計》《偷心大盜》《愛情羅勒香》《海洋之戀》《暮海情深》《職業替身》《極速戀人》《我們彼此相愛》..等。\n \n ▲台灣用戶還可觀看：《好搭檔》《長相思》《完美的家族》《讓我看見你是誰》《不夠善良的我們》《孔雀魚》《《幸福房屋事件簿》《何百芮的地獄毒白》《玩家2》《凌晨兩點的灰姑娘》《我可能不會愛你》《仙劍奇俠傳3》《非殺人小說》《金字塔遊戲》《一念關山》《以愛為營》《運氣好的日子》《我的人間煙火》《有院子的家》《去有風的地方》《月升滄海》...等。\n\n【動漫推薦】\n《Fairy Tail 魔導少年 百年任務》《成何體統》《我推的孩子》\n《藍色監獄》《萬界至尊》《SPY x FAMILY 間諜家家酒》...，\n以及台灣地區用戶可觀看到熱門新番：獨家跟播《航海王》、\n《哆啦A夢》《小市民》《杖與劍的魔劍譚》《鬼滅之刃》\n《擅長逃跑的殿下》《怪獸8號》《咒術迴戰》《進擊的巨人》\n《葬送的芙莉蓮》《關於我轉生變成史萊姆這檔事 第3季》\n《排球少年》《寶可夢》《蠟筆小新》《名偵探柯南》...等。\n\n【熱播強檔綜藝】\n《音樂緣計劃》《喜劇之王單口季》《新說唱2024》《十天之後回到現實》《登陸日》《男人們的戀愛 第3季》《I-LAND2 : FINAL COUNTDOWN》《喜歡你我也是 第5季》《萌探2024》《哈哈哈哈哈 第4季》《種地吧第2季》\n\n及台灣地區用戶可觀看到韓綜：全台獨家《一日三餐Light特別篇》《2024偶像運動會》《原子少年2》《BOSS RIIZE》《叢林飯》《姐姐的產地直送》《換乘戀愛3》《戀愛兄妹》《出神入化的戀愛》《奔跑吧第12季》《白Packer2》《我獨自生活》《RM》羅PD系列《種豆得豆》...等。\n\n【人氣電影】《前途海量》《怒潮》《瞞天過海》《熱搜》《破戰》《鬥破蒼穹：止戈》《零號追殺》《鬼吹燈系列》 以及台灣地區用戶可觀看到航海王系列電影：《蠟筆小新劇場版》《航海王劇場版》《獵人劇場版》等。\n\n陸劇，韓劇，華語綜藝，韓國綜藝……海量內容任您選擇！\n\n【功能亮點】\n1.免費模式 - 免費高品質影視作品，下載App即可觀看。\n2.付費模式 - 想擁有更好的用戶體驗？ 歡迎加入愛奇藝國際版會員，享受1080P高清影片，Dolby音效等更多會員特有權益。\n3.多語言介面 - 多語言字幕、多語言搜尋引擎為身在海外的您帶來更好的使用體驗。\n4.簡潔介面 - 不知道想看什麼？ 找不到需要的功能在哪？ 前所未有的簡潔介面讓您不再煩惱！\n5.多端觀看 - 支援手機，平板，電視多端同進度在線觀看，大、小螢幕供您自由選擇。\n\n\n更多驚喜盡在愛奇藝國際版（iQIYI），快來下載體驗吧！\n\n\n歡迎隨時留言給我們。 如有任何問題，請聯繫 contactus@qiyi.com。\n\n更多資訊可關注我們的Facebook和網站：\nFacebook@iQIYI：https://www.facebook.com/twiqiyi\nWeb: https://www.iq.com/\n\nSubscription period:1 month/3 months/12 months\n·Subscription price:From $2.76 to $58\n· Payment: Recorded in iTunes account after user's confirmation and payment.\n· Cancellation: Cancel auto-renewal in iTunes/Apple ID settings at least 24 hr before expiry. Otherwise, the renewal will be made.\n· Free first month trial: Renewal or cancellation will not affect the free trial. Users can continue to enjoy the trial until it ends.\n· Renewal: Renewal fee for another subscription cycle deducted from iTunes account within 24 hr before expiry.\n· Terms of Service: https://www.iq.com/intl-common/international-useragreement.html\n· Privacy Policy: https://www.iq.com/intl-common/international-privacyagreement.html\n· VIP Service Agreement: https://www.iq.com/intl-common/international-vip-membership-service.html\n· Auto-renewal Subscription Rules: https://www.iq.com/intl-common/auto-renewal-rules.html"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© IQIYI HK LIMITED" },
+        "title": {
+          "label": "iQIYI - 四方館 熱播中 - IQIYI INTERNATIONAL SINGAPORE PTE. LTD."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/iqiyi-%E5%9B%9B%E6%96%B9%E9%A4%A8-%E7%86%B1%E6%92%AD%E4%B8%AD/id1461999674?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/bd/66/11bd66db-e24b-dd2b-12e5-800f2ef379f0/d484cf54-0dff-46eb-9b44-800e054d505c_27322048_1.png/1024x1024bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/iqiyi-%E5%9B%9B%E6%96%B9%E9%A4%A8-%E7%86%B1%E6%92%AD%E4%B8%AD/id1461999674?uo=2",
+          "attributes": {
+            "im:id": "1461999674",
+            "im:bundleId": "com.iqiyi.i18n"
+          }
+        },
+        "im:artist": {
+          "label": "IQIYI INTERNATIONAL SINGAPORE PTE. LTD.",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/iqiyi-international-singapore-pte-ltd/id1512375522?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6016",
+            "term": "Entertainment",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2",
+            "label": "娛樂"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-08-03T00:00:00-07:00",
+          "attributes": { "label": "2020年08月03日" }
+        }
+      },
+      {
+        "im:name": { "label": "LastWar:Survival" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/c2/e2/83c2e252-0e4b-2b2c-5148-83e82fd3c780/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/c2/e2/83c2e252-0e4b-2b2c-5148-83e82fd3c780/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/c2/e2/83c2e252-0e4b-2b2c-5148-83e82fd3c780/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "全球出現了一場驚人的喪屍災難，把好多人都變成喪屍了！身為倖存者的你，最重要的就是要保持人性，然後想辦法活下去！\n\n- 超刺激的求生大挑戰\n現在就開始超刺激的求生大挑戰吧！要閃避喪屍，也要學會怎麼跟它們對抗。記住，生存可不只是活下去那麼簡單，還得要有快速的反應和聰明的策略呢！\n\n- 建造你自己的避難所\n建立基地，擴大你的隊伍。你是這個避難所的希望之光，領導大家走向希望！在這個喪屍橫行的世界裡，你的選擇將影響你的未來哦！\n\n- 組建你的夢幻隊伍\n招募英雄，每位英雄都有獨特技能。三軍任您選擇，組合不同英雄來輕鬆擊敗喪屍。\n\n- 與全球玩家合作\n在這個充滿挑戰的喪屍世界裡，生存是需要團隊合作的。與全世界的玩家一起合作對抗喪屍吧！但要注意了，聯盟關係可是很複雜的，並不是每個遇到的倖存者都是友善的喔！\n\n你能在這場喪屍浩劫中存活下來嗎？加入《Last War: Survival Game》，開始一段驚心動魄的生存與策略之旅吧！\n\n※ 本軟體因涉及暴力，依遊戲軟體分級管理辦法分類為輔17級。\n※ 本遊戲為免費使用，遊戲內另提供購買虛擬遊戲幣、物品等付費服務。\n※ 長時間進行遊戲，請注意使用時間，避免沉迷於遊戲。\n代理商資訊：易亨數位行銷有限公司"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© FirstFun" },
+        "title": { "label": "LastWar:Survival - FUNFLY PTE. LTD." },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/lastwar-survival/id6448786147?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/62/f6/4b62f6f3-56f6-a659-676b-45514478f033/22445167-abb7-4793-b521-939e5803ed9b_0.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/lastwar-survival/id6448786147?uo=2",
+          "attributes": {
+            "im:id": "6448786147",
+            "im:bundleId": "com.lastwar.ios"
+          }
+        },
+        "im:artist": {
+          "label": "FUNFLY PTE. LTD.",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/funfly-pte-ltd/id1748704065?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2023-08-02T00:00:00-07:00",
+          "attributes": { "label": "2023年08月02日" }
+        }
+      },
+      {
+        "im:name": { "label": "RO仙境傳說：重生" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/bd/4e/29bd4e8a-badc-a87b-df95-d57375a8feb9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/bd/4e/29bd4e8a-badc-a87b-df95-d57375a8feb9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/bd/4e/29bd4e8a-badc-a87b-df95-d57375a8feb9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "都2024年了，怎麽還有《RO》啊！\r\n\r\n沒錯，沒錯！正版RO又來了！ 首款真正放置、掛機收益、休閒與深度遊玩並存的RO登場！還記得當年刷卡片刷到手軟的日子嗎？在《RO仙境傳說：重生》，重新體驗那份心酸與成就。無論你是坐捷運通勤、在家躺平，還是在辦公室偷偷摸魚，這款遊戲都能讓你玩得開心，還有橫豎屏隨你切換，一手掌握RO世界！\r\n\r\n在《RO仙境傳說：重生》，再也不用糾結職業選擇，你想怎麽搭配都行！加入公會，與好友並肩作戰！多樣化的PVE和PVP內容、豐富的社交系統、自由交易行的全新設計「官方預付」，無論你是新手還是RO的老玩家，都能在這款遊戲中找到樂趣。\r\n\r\n立即下載，開啟你的RO冒險吧！\r\n\r\n********遊戲特色********\r\n【RO經典，這一次精彩重生】\r\nRO每款遊戲都經典，但這次是真正意義的重生！立即加入重溫普隆德拉、吉芬、夢羅克等熟悉的場景，經典職業和技能全面重生！除了重生經典，也將帶來各種全新系統，同時減輕你的遊戲負擔！讓你輕鬆回味，毫無壓力輕鬆玩！\r\n\r\n【重生！橫豎屏切換，休閒認真隨便你】\r\n支持橫屏與豎屏兩種操作模式！平常豎版休閒玩，跑跑任務走走日常。必要時刻拿起手機改成橫屏，參與世界MVP/MINI狩獵，展現最極致的操作體驗！RO這次重生給你更輕鬆的日常，但帶來更豐富的遊戲體驗！\r\n\r\n【重生！自由玩轉交易行】\r\n這次重生連交易行都一起了！哭著也要玩！自由貿易且遵從市場機制的交易行將帶來全新體驗，首次加入的預付款系統，讓你買賣無壓力，機體升級超有感，無課都能輕鬆玩，靠著交易行致富也就是分分鐘的事情！\r\n\r\n【重生！寵物派遣輕鬆放置】\r\n就此告別手機發燙啦！不用整天開著手機或電腦模擬器掛機，深怕上班時老板站在你後面火冒三丈？全新寵物玩法重生！受夠了手動挖礦、釣魚、採集，現在直接派遣寵物收集遊戲資源，這次重生隨時打開遊戲就是滿滿資源，機體升級無壓力，還可以把多餘資源拿去交易行拍賣！\r\n\r\n【重生！最強職業玩法】\r\n十幾種職業任你選，超出想像的搭配都隨你安排！無論是暴力牧師還是經典鳥獵都能夠在這裡重生成為最強，所有特色職業跟搭配在普隆德拉大陸裡面任你馳騁。\r\n\r\n********聯繫我們********\r\n官方Facebook：https://www.facebook.com/RORTW.Gravity\r\n官方Discord：https://discord.gg/C4mFaHP6xa\r\n官方LINE：https://bit.ly/3Z1zewx"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© 2024 Gravity Game Vision Limited" },
+        "title": { "label": "RO仙境傳說：重生 - Gravity Game Vision Limited" },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E9%87%8D%E7%94%9F/id6596747214?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E9%87%8D%E7%94%9F/id6596747214?uo=2",
+          "attributes": {
+            "im:id": "6596747214",
+            "im:bundleId": "com.ggv.rebirth.ios"
+          }
+        },
+        "im:artist": {
+          "label": "Gravity Game Vision Limited",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/gravity-game-vision-limited/id1618358914?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2024-10-29T00:00:00-07:00",
+          "attributes": { "label": "2024年10月29日" }
+        }
+      },
+      {
+        "im:name": { "label": "寒霜啟示錄" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/88/e2/5288e285-db42-8e15-6ba2-210d73a80ba0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/88/e2/5288e285-db42-8e15-6ba2-210d73a80ba0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/88/e2/5288e285-db42-8e15-6ba2-210d73a80ba0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "寒霜啟示錄是一款將策略與放置結合的冰雪末日生存遊戲，獨特玩法，細節豐富，待您探索。\n\n突如其來的全球氣溫驟降徹底地摧毀了人類文明，以致人類失去了賴以生存的家園，面對嚴寒的天氣、無情的暴風雪、盤踞在冰原的兇猛野獸，以及那些對遺留物資虎視眈眈的暴徒，僅存的幾名倖存者能否順利地生存下來，保護並延續人類文明的火種？只有您能幫助他們！在這個被冰雪覆蓋的極寒世界裡，您將成為鎮長，引領倖存者們克服惡劣的環境、制定不同的生存策略，重建文明家園。\n\n【核心特色】\n\n人力分配\n享受獨特的倖存者工作分配玩法，如工人、獵人、廚師等等。記得隨時監測倖存者們的健康狀況和幸福指數，確保他們能夠穩定且高效率地工作，如果他們生病了，別擔心，請及時施以治療。\n\n【策略玩法】\n\n爭奪物資\n災難來臨得太突然，冰原上仍遺留著無數有助於生存的物資，那些暴怒的冰原野獸以及其他有能力的鎮長都在虎視眈眈……既然無法避免相爭，那就只能用盡一切手段跨越阻礙、爭奪物資了！\n\n逐鹿冰原\n與數百萬來自世界各地的鎮長爭奪最強營地的殊榮，在這款偉大的策略遊戲中奪取王座並統治一切吧！\n\n建立同盟\n不要再一個人孤單地與冰雪和入侵者對抗了，創建或加入聯盟，與盟友一起主宰戰場，稱霸凍土！\n\n招募幫手\n特色英雄，等您招募，唯有招募更多不同天賦技能的英雄，才能在這場災難中奪得更多的主動權，更加安全地生存下去。\n\n和其他鎮長同台競技\n掌握英雄技能、妥善搭配戰鬥小隊，與其他鎮長一決高下！獲勝不僅能帶來豐厚的積分，還可用於兌換稀有的道具。帶領您的小鎮勇登競技排行榜，所有人都能見證一座偉大的小鎮如何從零誕生。\n\n發展科技\n這場冰雪災難摧毀了所有的科技文明，立即開始重建科技體系、重拾文明碎片。誰能更快的掌握最前線的技術，誰就能主宰這個世界！\n\n寒霜啟示錄（Whiteout Survival）是一款可以免費暢玩的策略性手遊，同時也支援以實際金錢購買遊戲內的商品或道具，這會加速遊戲進度，但這並不是您享受這款策略遊戲的必要步驟。\n\n《寒霜啟示錄》繁中粉專：＠WhiteoutSurvival.tw\n客服信箱：contact_wos@Joygames.tw\n\n杰遊有限公司為《寒霜啟示錄》在台灣的代理商。\n※本遊戲內容涉及暴力情節（但無血腥畫面），依遊戲軟體分級管理辦法分類為輔 12 級。\n※本遊戲為免費遊戲，但遊戲內設有商城加值區，請依個人興趣及能力進行適度消費。\n※請注意遊戲時間，長時間進行遊戲，容易影響作息，宜適度休息及運動。"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "©  Copyright 2023 Century Games Pte. Ltd." },
+        "title": { "label": "寒霜啟示錄 - Century Games Pte. Ltd." },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/tw/app/%E5%AF%92%E9%9C%9C%E5%95%9F%E7%A4%BA%E9%8C%84/id6443575749?uo=2"
+            }
+          },
+          {
+            "im:duration": { "label": "0" },
+            "attributes": {
+              "title": "試聽/預覽",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/ca/10/01ca10c5-c14e-df8f-3327-829f6f9bcda0/f474ffc7-3676-497a-803d-093bfa65ccc5_0.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/tw/app/%E5%AF%92%E9%9C%9C%E5%95%9F%E7%A4%BA%E9%8C%84/id6443575749?uo=2",
+          "attributes": {
+            "im:id": "6443575749",
+            "im:bundleId": "com.gof.global"
+          }
+        },
+        "im:artist": {
+          "label": "Century Games Pte. Ltd.",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/century-games-pte-ltd/id1540548141?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2023-02-12T00:00:00-07:00",
+          "attributes": { "label": "2023年02月12日" }
+        }
+      },
+      {
+        "im:name": { "label": "救世者之樹：新世界" },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/c5/29/5dc529fa-6ddc-bc30-b9b5-574f72d491c0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/53x53bb.png",
+            "attributes": { "height": "53" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/c5/29/5dc529fa-6ddc-bc30-b9b5-574f72d491c0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/75x75bb.png",
+            "attributes": { "height": "75" }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/c5/29/5dc529fa-6ddc-bc30-b9b5-574f72d491c0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+            "attributes": { "height": "100" }
+          }
+        ],
+        "summary": {
+          "label": "亞洲11個地區統一版本！同步上線！\nMMORPG的雄心 - 開創「跨地區共玩」新篇章！人氣至上！ \n+ 超大人氣！和不一樣的夥伴組隊冒險！\n+ 獨門職業套路！快人一步爆神裝！\n+ 史詩級的可愛GVG，戰勝全部，贏得榮譽\n+ 強大的生活職業！好好玩生活也能成為明星！\n+ 免費製作稀有外觀！\n+ 能變身超酷的魔神\n+ 近百隻超可愛貓靈陪伴\n+ 線上百萬玩家，正在等待與你相遇\n\n\n【全新演繹的TOS系列MMO】\n曾經承載無數人夢想的《救世者之樹》全新力作《救世者之樹：新世界》正統來襲！金學圭美術監製，櫻庭統作曲，大師級音樂美術；帶你走進出奇好玩，加倍感動的療癒MMO新世界！\n\n【職業改造稀有流派】\n創造全新的職業模式，打不死的刺客，修裝備的藥師，隨時丟藥包的射手......把所有意想不到的元素結合，玩轉只屬於你自己的流派。\n\n【生活職業也能當MVP】\n認真生活一樣能夠讓大家愛不釋手！製作金色料理，化身戰場超人；活用煉金藥劑，奶媽秒變毒師……\n\n【史詩級GVG團戰】\n超大規模的GVG玩法，多地區公會大混戰，稱霸亞洲之巔！\n\n【超酷的幻果變身】\n從未有過的幻果變身戰鬥！可愛的花精靈，暗黑的度瑪，巨大的深海巨獸..... 全新的戰鬥演繹，帥氣的同時又戰鬥力爆表，隨時在戰場成為閃耀的MVP！\n\n【時裝坐騎盡情打造】\n史無前例的福利體驗，輕鬆裝滿衣櫥。成百上千套外觀，不同部位免費染色，從雨林到都市，從現代到傳說 自由搭配你的外出行頭，穿出屬於自我的獨特風格。"
+        },
+        "im:price": {
+          "label": "取得",
+          "attributes": { "amount": "0", "currency": "TWD" }
+        },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "應用程式" }
+        },
+        "rights": { "label": "© Sialia Games Inc." },
+        "title": { "label": "救世者之樹：新世界 - Sialia Games" },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://apps.apple.com/tw/app/%E6%95%91%E4%B8%96%E8%80%85%E4%B9%8B%E6%A8%B9-%E6%96%B0%E4%B8%96%E7%95%8C/id6480159275?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://apps.apple.com/tw/app/%E6%95%91%E4%B8%96%E8%80%85%E4%B9%8B%E6%A8%B9-%E6%96%B0%E4%B8%96%E7%95%8C/id6480159275?uo=2",
+          "attributes": {
+            "im:id": "6480159275",
+            "im:bundleId": "com.sialiagames.szgd.tw"
+          }
+        },
+        "im:artist": {
+          "label": "Sialia Games",
+          "attributes": {
+            "href": "https://apps.apple.com/tw/developer/sialia-games/id1530758359?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6014",
+            "term": "Games",
+            "scheme": "https://apps.apple.com/tw/genre/ios-%E9%81%8A%E6%88%B2/id6014?uo=2",
+            "label": "遊戲"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2024-10-10T00:00:00-07:00",
+          "attributes": { "label": "2024年10月10日" }
+        }
+      }
+    ],
+    "updated": { "label": "2024-11-09T18:28:23-07:00" },
+    "rights": { "label": "Copyright 2008 Apple Inc." },
+    "title": { "label": "iTunes Store：App 暢銷排行" },
+    "icon": { "label": "http://itunes.apple.com/favicon.ico" },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=tw&id=172316&popId=38"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/tw/rss/topgrossingapplications/limit=10/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/tw/rss/topgrossingapplications/limit=10/json"
+    }
+  }
+}
