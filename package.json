@@ -1,0 +1,37 @@
+{
+  "name": "shoalter-frontend-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "docker-build": "docker build -t shoalter-frontend-test .",
+    "docker-run": "docker run -p 3000:3000 shoalter-frontend-test"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.1",
+    "@reduxjs/toolkit": "^2.3.0",
+    "@types/lodash": "^4.17.13",
+    "antd": "^5.21.6",
+    "axios": "^1.7.7",
+    "lodash": "^4.17.21",
+    "next": "15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react-redux": "^9.1.2",
+    "reduce-reducers": "^1.0.4",
+    "redux-thunk": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
