@@ -33,3 +33,21 @@ body > div {
 .ant-space {
   width: 100%;
 }
+
+#scrollable-list > .ant-row > .ant-col:nth-child(1) .app-divider {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  #scrollable-list > .ant-row > .ant-col:nth-child(1) .app-divider,
+  #scrollable-list > .ant-row > .ant-col:nth-child(2) .app-divider {
+    border: 0;
+    display: block;
+  }
+}
+
+@media (min-width: 992px) {
+  #scrollable-list > .ant-row > .ant-col:nth-child(3) .app-divider {
+    border: 0;
+  }
+}

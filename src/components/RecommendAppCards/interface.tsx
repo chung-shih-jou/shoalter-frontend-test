@@ -23,6 +23,14 @@ export type DataType = {
 };
 export interface RecommendAppCardProps {
   data: DataType;
+  keyword?: string;
+  keywordPaths?: string[];
+  idx?: number;
+}
+
+export interface KeywordProps {
+  keywords: string[];
+  text: string;
 }
 
 export interface RecommendAppCardsProps {

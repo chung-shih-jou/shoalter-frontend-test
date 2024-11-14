@@ -1,0 +1,27 @@
+{
+  "id": "shoalter-frontend-test",
+  "dir": "ltr",
+  "lang": "en",
+  "categories": ["business", "food", "shopping"],
+  "prefer_related_applications": false,
+  "iarc_rating_id": "13",
+  "name": "shoalter-frontend-test",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait"
+}

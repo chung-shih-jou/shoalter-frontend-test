@@ -8,6 +8,7 @@ type DefaultPaginationType = {
 export type StoreType<T = any> = {
   list: T[];
   current: T;
+  error: any;
 } & DefaultPaginationType;
 
 export type StroePool<T = any> = {
@@ -25,10 +26,12 @@ export const initialState: StroePool = {
     list: [],
     ...defaultPagination,
     current: {},
+    error: null,
   },
   recommend: {
     list: [],
     ...defaultPagination,
     current: {},
+    error: null,
   },
 };

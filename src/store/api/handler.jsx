@@ -1,7 +1,6 @@
 import axios from "axios";
 import { get } from "lodash";
 import { getDefaultHeaders, getQuery } from "../utils";
-import { unAutherizeDirect } from "../../utils/method";
 
 async function handleResp(resp) {
   const { error, data } = resp;

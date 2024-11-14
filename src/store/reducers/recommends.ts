@@ -6,37 +6,43 @@ import { defaultPagination, initialState } from "../initialState";
 import { handleState } from "../utils";
 
 const { recommend } = initialState;
-const clearCurrent = (state: any) => ({ ...state, current: {} });
+const clearCurrent = (state: any) => ({ ...state, current: {}, error: false });
 const clearList = (state: any) => ({
   ...state,
   list: {},
+  error: false,
   ...defaultPagination,
 });
 
 const setList = (state: any, action: { payload: any; type: string }) => {
   const data = action.payload || [];
-  return { ...state, list: data };
+  return { ...state, list: data, error: false };
 };
 
 const setCurrent = (state: any, action: { payload: any; type: string }) => {
   const data = action.payload || {};
-  return { ...state, current: data };
+  return { ...state, current: data, error: false };
 };
 
 const actionCurrent = (state: any, action: { payload: any; type: string }) => {
   const data = action.payload || {};
   // do something
-  return { ...state, current: data };
+  return { ...state, current: data, error: false };
 };
 
 const actionList = (state: any, action: { payload: any; type: string }) => {
   const { id, method, data } = action.payload;
   const { list, total } = handleState(
     state,
-    cloneDeep({ id, ...data }),
+    cloneDeep({ id, ...data, error: false }),
     method
   );
   return { ...state, list, total };
+};
+
+const setError = (state: any, action: { payload: any }) => {
+  const { data } = action.payload;
+  return { ...state, error: data };
 };
 
 export const recommendSlice = createSlice({
@@ -49,6 +55,7 @@ export const recommendSlice = createSlice({
     [actions.CLEAR_CURRENT]: clearCurrent,
     [actions.SET_CURRENT]: setCurrent,
     [actions.CUD_CURRENT]: actionCurrent,
+    [actions.SET_ERROR]: setError,
   },
 });
 
