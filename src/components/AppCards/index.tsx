@@ -21,12 +21,12 @@ function Keywords({ keywords, text }: KeywordProps) {
           textLen + substring.length
         );
         const suffix = text.slice(
-          textLen + substring.length + 1 + keyword.length,
+          textLen + substring.length + keyword.length,
           textLen + substring.length + 1 + keyword.length + 5
         );
         const result = text.slice(
           textLen + substring.length,
-          textLen + substring.length + 1 + keyword.length
+          textLen + substring.length + keyword.length
         );
         textLen += substring.length + keyword.length;
         return (
@@ -54,6 +54,7 @@ function AppCard({
   keyword = "",
   keywordPaths,
   idx = 0,
+  onClick = () => {},
 }: RecommendAppCardProps) {
   const imgSrc = get(data, "im:image[0].label", "");
   const imgAlt = get(data, "im:name.label", "");
@@ -69,7 +70,12 @@ function AppCard({
   const keywords = keyword ? [keyword] : [];
   const imgHeight = Number(imgSize.height);
   return (
-    <Row align={"middle"} gutter={[0, 24]}>
+    <Row
+      className="cursor-pointer"
+      onClick={onClick}
+      align={"middle"}
+      gutter={[0, 24]}
+    >
       <Col md={8} xs={8} sm={8} className="text-center">
         <Image
           className="rounded-full m-auto"

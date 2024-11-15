@@ -10,7 +10,7 @@ const { app } = initialState;
 const clearCurrent = (state: any) => ({ ...state, current: {}, error: false });
 const clearList = (state: any) => ({
   ...state,
-  list: {},
+  list: [],
   error: false,
   ...defaultPagination,
 });

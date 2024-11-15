@@ -2,13 +2,13 @@ import axios from "axios";
 import { get } from "lodash";
 import { getDefaultHeaders, getQuery } from "../utils";
 
-async function handleResp(resp) {
+async function handleResp(resp: { data: { data: any }; error: any }) {
   const { error, data } = resp;
   if (!error) return { error, data: data.data };
   return resp;
 }
 
-function handleErrorResp(err) {
+function handleErrorResp(err: any) {
   console.log(err);
   try {
     const error = get(err, "response.data") || get(err, "response");
@@ -19,7 +19,7 @@ function handleErrorResp(err) {
   }
 }
 
-async function POST(url, data, headers) {
+async function POST(url: string, data: any, headers?: object) {
   try {
     if (!headers) headers = getDefaultHeaders();
     const resp = await axios({ method: "POST", url, data, headers });
@@ -34,7 +34,7 @@ async function POST(url, data, headers) {
   }
 }
 
-async function GET(url, data, headers) {
+async function GET(url: string, data?: any, headers?: object) {
   try {
     if (!headers) headers = getDefaultHeaders();
     if (data) url += getQuery(url, data);
@@ -49,7 +49,7 @@ async function GET(url, data, headers) {
   }
 }
 
-async function PUT(url, data, headers) {
+async function PUT(url: string, data: any, headers?: object) {
   try {
     if (!headers) headers = getDefaultHeaders();
     const resp = await axios({ method: "PUT", url, data, headers });
@@ -63,7 +63,7 @@ async function PUT(url, data, headers) {
   }
 }
 
-async function PATCH(url, data, headers) {
+async function PATCH(url: string, data: any, headers?: object) {
   try {
     if (!headers) headers = getDefaultHeaders();
     const resp = await axios({ method: "PATCH", url, data, headers });
@@ -77,7 +77,7 @@ async function PATCH(url, data, headers) {
   }
 }
 
-async function DELETE(url, headers) {
+async function DELETE(url: string, headers?: object) {
   try {
     if (!headers) headers = getDefaultHeaders();
     const resp = await axios({ method: "DELETE", url, headers });

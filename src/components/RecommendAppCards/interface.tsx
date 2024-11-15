@@ -1,3 +1,5 @@
+import { MouseEventHandler } from "react";
+
 enum LinkTypes {
   HTML = "text/html",
   IMG = "image/jpeg",
@@ -16,7 +18,7 @@ export type DataType = {
       type: LinkTypes;
       "im:assetType": string;
     };
-  };
+  }[];
   category: { attributes: { label: string } };
   id: { attributes: { "im:id": string } };
   detail: { averageUserRatingForCurrentVersion: number };
@@ -26,6 +28,7 @@ export interface RecommendAppCardProps {
   keyword?: string;
   keywordPaths?: string[];
   idx?: number;
+  onClick?: MouseEventHandler;
 }
 
 export interface KeywordProps {

@@ -6,3 +6,5 @@ export const ApiMethods = {
   BULK_DELETE: "BULK_DELETE",
   BULK_UPDATE: "BULK_UPDATE",
 };
+
+export const cahceExpireTime = 60 * 1000 * 2;

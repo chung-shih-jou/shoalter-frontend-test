@@ -43,8 +43,8 @@ function ScrollableList({
       className="overflow-y-scroll"
       style={{ height }}
     >
-      <Component data={data} />
       {children}
+      <Component data={data} />
       <div className="text-center m-8">
         {loading ? <Skeleton avatar paragraph={{ rows: 4 }} /> : null}
       </div>
